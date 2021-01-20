@@ -43,7 +43,7 @@ Possible future changes and updates:
 
 3. Scale up the applications capabilities with Frontend development, more uses, more diversity and cleaner code.
 
-4. Break application into smaller but easier to read, understand and revisit parts (like classes).
+4. Break application into smaller but easier to read, understand and revisit parts (more classes, more queries, etc).
 
 5. Improve Documentation.
 

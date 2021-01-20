@@ -9,7 +9,7 @@ How it works:
 I have chosen port 8091 for my httpServer to listen [httpServer.requestHandler(router).listen(8091);]
 and my Database occupies port 3306 [/localhost:3306].
 
-http://localhost:8091/login : is the starting point and instucts how the user can log in using data from the database.
+http://localhost:8091/login : is the starting point and instucts how the user can log in using data from the database (example users are Bill Papadas (admin) and Clarice Calderon (customer)).
 
 http://localhost:8091/login/:firstname/:lastname : checks the database for the user data given and proceeds to a welcome him.
 
